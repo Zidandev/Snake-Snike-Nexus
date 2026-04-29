@@ -1,0 +1,6 @@
+{
+  "name": "Snake Snike Nexus",
+  "description": "A high-tech, space-themed Snake game featuring a Nexus aesthetic, real-time leaderboard, skin shop, and administrative dashboard. Experience the matrix in 20x20.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["GAME", "DATABASE", "ADMIN_DASHBOARD"]
+}
